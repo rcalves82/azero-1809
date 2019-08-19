@@ -3,7 +3,7 @@
 Funcionalidade: Login
     Para que eu possa cadastrar e gerenciar minhas atividades
     Sendo um usuário cadastrado
-    Posso acessar o sistema com meu e-mail e minha senha
+    # Posso acessar o sistema com meu e-mail e minha senha
 
 @logout @smoke
 Cenário: Usuario autenticado
